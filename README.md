@@ -18,6 +18,17 @@ A console-based Python game where the player navigates through a 5x5 grid to fin
 ## Project Type
 Console-Based Game
 
+## Screenshots
+
+### Game Start
+![Game Start](assets/game_start.png)
+
+### Gameplay
+![Gameplay](assets/game_play.png)
+
+### Winning Screen
+![Winning Screen](assets/game_win.png)
+
 ## Author
 Nancy Sharma  
 B.Tech CSE Student
