@@ -29,6 +29,13 @@ Console-Based Game
 ### Winning Screen
 ![Winning Screen](assets/game_win.png)
 
+## How to Run
+
+1. Clone the repository
+2. Open terminal
+3. Run:
+        python "Treasure hunt.py"
+
 ## Author
 Nancy Sharma  
 B.Tech CSE Student
